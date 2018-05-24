@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenCaptureAndMemo", "ScreenCaptureAndMemo\ScreenCaptureAndMemo.csproj", "{2AEB49E3-82F4-4694-ACE3-FF8F719EAAD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoToExcel", "MemoToExcel\MemoToExcel.csproj", "{E9BD3AD3-461C-40A7-8735-38529082BE25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -15,6 +17,10 @@ Global
 		{2AEB49E3-82F4-4694-ACE3-FF8F719EAAD3}.Debug|x86.Build.0 = Debug|x86
 		{2AEB49E3-82F4-4694-ACE3-FF8F719EAAD3}.Release|x86.ActiveCfg = Release|x86
 		{2AEB49E3-82F4-4694-ACE3-FF8F719EAAD3}.Release|x86.Build.0 = Release|x86
+		{E9BD3AD3-461C-40A7-8735-38529082BE25}.Debug|x86.ActiveCfg = Debug|x86
+		{E9BD3AD3-461C-40A7-8735-38529082BE25}.Debug|x86.Build.0 = Debug|x86
+		{E9BD3AD3-461C-40A7-8735-38529082BE25}.Release|x86.ActiveCfg = Release|x86
+		{E9BD3AD3-461C-40A7-8735-38529082BE25}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
