@@ -1,6 +1,6 @@
 # ScreenCaptureAndMemo
-ƒXƒNƒŠ[ƒ“ƒVƒ‡ƒbƒg‚ÆA‚»‚ê‚ÉŠÖ‚·‚éƒƒ‚‚ð‹L˜^‚µ‚Ü‚·B
-‹L˜^æ‚Íƒ}ƒCƒhƒLƒ…ƒƒ“ƒgBƒtƒ@ƒCƒ‹–¼‚Íƒ^ƒCƒ€ƒXƒ^ƒ“ƒv.png ‚¨‚æ‚Ñ ƒ^ƒCƒ€ƒXƒ^ƒ“ƒv.png.txt
+ã‚¹ã‚¯ãƒªãƒ¼ãƒ³ã‚·ãƒ§ãƒƒãƒˆã¨ã€ãã‚Œã«é–¢ã™ã‚‹ãƒ¡ãƒ¢ã‚’è¨˜éŒ²ã—ã¾ã™ã€‚
+è¨˜éŒ²å…ˆã¯ãƒžã‚¤ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆã€‚ãƒ•ã‚¡ã‚¤ãƒ«åã¯ã‚¿ã‚¤ãƒ ã‚¹ã‚¿ãƒ³ãƒ—.png ãŠã‚ˆã³ ã‚¿ã‚¤ãƒ ã‚¹ã‚¿ãƒ³ãƒ—.png.txt
 
-<img src="doc/capt20180524164421.png" alt="Exec"/>
-<img src="doc/folder.png" alt="Folder"/>
+<img src="docs/capt20180524164421.png" alt="Exec"/>
+<img src="docs/folder.png" alt="Folder"/>
