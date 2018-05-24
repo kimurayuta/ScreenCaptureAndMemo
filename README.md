@@ -4,3 +4,6 @@
 
 <img src="docs/capt20180524164421.png" alt="Exec"/>
 <img src="docs/folder.png" alt="Folder"/>
+
+# MemoToExcel
+ScreenCaptureAndMemo で保存したスクリーンショットとメモをエクセルにまとめます。
